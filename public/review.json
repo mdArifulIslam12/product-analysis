@@ -1,0 +1,43 @@
+[
+    {   "id":1,
+        "name": "Oliver",
+        "rating": 4.7,
+        "detail": "It's build quality is awesome.",
+        "img": "https://mdarifulislam12.github.io/leaderboard/img/players/player-1.png"
+    },
+    {   
+        "id":2,
+        "name": "John Smith",
+        "rating": 4.4,
+        "detail": "Awesome product",
+        "img": "https://mdarifulislam12.github.io/leaderboard/img/players/player-2.png"
+    },
+    {   
+        "id":3,
+        "name": "Alexander",
+        "rating": 4.3,
+        "detail": "There are many benefits to using it.",
+        "img": "https://mdarifulislam12.github.io/leaderboard/img/players/player-3.png"
+    },
+    {   
+        "id":4,
+        "name": "George",
+        "rating": 5.0,
+        "detail": "It is much better in price and quality",
+        "img": "https://mdarifulislam12.github.io/leaderboard/img/players/player-4.png"
+    },
+    {   
+        "id":5,
+        "name": "David",
+        "rating": 4.2,
+        "detail": "It's build quality is awesome.",
+        "img": "https://mdarifulislam12.github.io/leaderboard/img/players/player-5.png"
+    },
+    {
+        "id":6,
+        "name": "Will Jack",
+        "rating": 4.0,
+        "detail": "Awesome product",
+        "img": "https://mdarifulislam12.github.io/leaderboard/img/players/player-6.png"
+    }
+]

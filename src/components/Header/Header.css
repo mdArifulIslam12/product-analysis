@@ -1,0 +1,12 @@
+.btn {
+  text-decoration: none;
+}
+.header a {
+  padding: 14px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.header a:hover {
+  color: red;
+  text-decoration: underline;
+}

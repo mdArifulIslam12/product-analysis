@@ -1,0 +1,15 @@
+.cart-container-review {
+  height: 200px;
+  box-shadow: 0 0 10px 0 rgb(58, 57, 57);
+  padding: 14px;
+  padding-top: 40px;
+  border-radius: 8px;
+}
+.cart-container-review img {
+  width: 90px;
+  height: 90px;
+}
+.cart-container-review h2 {
+  font-size: 20px;
+  font-weight: 500;
+}
